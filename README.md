@@ -11,15 +11,12 @@
 
 - 📝 I regularly write articles on [rhythmblogs.hashnode.dev](rhythmblogs.hashnode.dev)
 
-- 💬 Ask me about   **Machine Learning, Deep Learning, Data Analysis**
+- 💬 Ask me about   **Machine Learning, Deep Learning, Computer Vision and Data Analysis**
 
-- 📫 How to reach me **rhythmrawat422@gmail.com**
+- 📫 How to reach me -  **rhythmrawat422@gmail.com**
 
 - 📄 Know about my experiences [https://shorturl.at/vyFGT](https://shorturl.at/vyFGT)
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
