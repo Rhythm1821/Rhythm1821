@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rhythm1821&label=Profile%20views&color=0e75b6&style=flat" alt="rhythm1821" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rhythm1821" alt="rhythm1821" /></a> </p>
-
 - 🔭 I’m currently working on [Face-Recognition](https://github.com/Rhythm1821/Face-Recognition)
 
 - 📝 I regularly write articles on [rhythmblogs.hashnode.dev](rhythmblogs.hashnode.dev)
