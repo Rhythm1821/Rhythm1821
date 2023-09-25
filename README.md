@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rhythm1821" alt="rhythm1821" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/rawattwts" target="blank"><img src="https://img.shields.io/twitter/follow/rawattwts?logo=twitter&style=for-the-badge" alt="rawattwts" /></a> </p>
-
 - 🔭 I’m currently working on [Face-Recognition](https://github.com/Rhythm1821/Face-Recognition)
 
 - 📝 I regularly write articles on [rhythmblogs.hashnode.dev](rhythmblogs.hashnode.dev)
