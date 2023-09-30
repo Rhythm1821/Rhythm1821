@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rhythm1821&label=Profile%20views&color=0e75b6&style=flat" alt="rhythm1821" /> </p>
 
-- 🔭 I’m currently working on [Face-Recognition](https://github.com/Rhythm1821/Face-Recognition)
+- 🔭 I’m currently working on Kidney-Stone-Detection project
 
-- 📝 I regularly write articles on [rhythmblogs.hashnode.dev](rhythmblogs.hashnode.dev)
+- 📝 I write articles on [rhythmblogs.hashnode.dev](rhythmblogs.hashnode.dev)
 
 - 💬 Ask me about **Machine Learning, Deep Learning, Data Analysis**
 
