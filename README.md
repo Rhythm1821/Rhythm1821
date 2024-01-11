@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **rhythmrawat422@gmail.com**
 
-- 📄 Know about my experiences [https://shorturl.at/vyFGT](https://shorturl.at/vyFGT)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
